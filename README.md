@@ -9,7 +9,7 @@ Unix training developed by Pathogen Informatics at Wellcome Sanger Institute.
 
 ## Introduction
 
-This is a training module for using unix in the form of jupyter notebooks. Begin in the index notebook and this will guide you through the training.
+This is a training module for using unix in the form of jupyter notebooks. Begin in the [index](unix-training-notebooks/index.ipynb) notebook and this will guide you through the training.
 
 Key aims of the training include:
 
