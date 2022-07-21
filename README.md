@@ -19,7 +19,6 @@ Key aims of the training include:
 - Being able to manipulate (move, copy and delete ) files using the command line
 - Looking at and sorting the contents of a file
 - Finding the unique items in a list
-- Using the man command to find out more information about UNIX commands
 
 ## Feedback/Issues
 
