@@ -2,10 +2,12 @@
 
 Unix training developed by Pathogen Informatics at Wellcome Sanger Institute.
 
+
 ## Content
 
 - [Introduction](#introduction)
 - [Feedback/Issues](#feedbackissues)
+
 
 ## Introduction
 
@@ -19,7 +21,11 @@ Key aims of the training include:
 - Being able to manipulate (move, copy and delete ) files using the command line
 - Looking at and sorting the contents of a file
 - Finding the unique items in a list
-- Using the man command to find out more information about UNIX commands
+
+## Known issues
+
+The `man` command is not currently supported on Jupyterhub. If you need any additional information on a command we suggest to try `man <command>` on the farm instead.
+
 
 ## Feedback/Issues
 
